@@ -1,0 +1,22 @@
+﻿<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.23/angular.min.js"></script>
+
+<link rel="stylesheet" type="text/css" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap.min.css">
+<div ng-app>
+    <div ng-init="showModal=false">
+        <div>
+        <button class="btn btn-primary btn-lg" ng-click="showModal = !showModal">
+            Launch demo modal
+        </button>
+        </div>
+        <div class="modal fade in" aria-hidden="false" style="display: block;" ng-show="showModal">  
+            <div class="modal-dialog">    
+                <div class="modal-content">   
+                    MODAL   
+                    <div class="modal-footer">        
+                        <button type="button" class="btn btn-primary" ng-click="showModal=false">Ok</button>     
+                    </div>    
+                </div>  
+            </div>
+        </div>
+</div>
+ Run code snippetReturn to post

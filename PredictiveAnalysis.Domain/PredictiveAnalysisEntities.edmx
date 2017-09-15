@@ -1,0 +1,342 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="PredictiveAnalysisModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="Country">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="DisplayName" Type="nvarchar" MaxLength="100" />
+        </EntityType>
+        <EntityType Name="Customer">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="DisplayName" Type="nvarchar" MaxLength="100" />
+        </EntityType>
+        <EntityType Name="Dataset">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="VariableId" Type="int" Nullable="false" />
+          <Property Name="CountryName" Type="nvarchar" MaxLength="250" Nullable="false" />
+          <Property Name="CustomerName" Type="nvarchar" MaxLength="250" Nullable="false" />
+          <Property Name="Year" Type="nvarchar" MaxLength="250" Nullable="false" />
+          <Property Name="Month" Type="nvarchar" MaxLength="250" Nullable="false" />
+          <Property Name="DataValue" Type="float" Nullable="false" />
+          <Property Name="CustomerId" Type="int" />
+          <Property Name="CountryId" Type="int" />
+        </EntityType>
+        <EntityType Name="DatasetRule">
+          <Key>
+            <PropertyRef Name="RuleId" />
+          </Key>
+          <Property Name="RuleId" Type="nvarchar" MaxLength="10" Nullable="false" />
+          <Property Name="Expression" Type="nvarchar(max)" Nullable="false" />
+        </EntityType>
+        <EntityType Name="StockData">
+          <Key>
+            <PropertyRef Name="StockDataId" />
+          </Key>
+          <Property Name="Date" Type="datetime" />
+          <Property Name="Open" Type="float" />
+          <Property Name="High" Type="float" />
+          <Property Name="Low" Type="float" />
+          <Property Name="Close" Type="float" />
+          <Property Name="Adj Close" Type="float" />
+          <Property Name="Volume" Type="float" />
+          <Property Name="Year" Type="nvarchar" MaxLength="255" />
+          <Property Name="Month" Type="nvarchar" MaxLength="255" />
+          <Property Name="StockDataId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Variable">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="DisplayName" Type="nvarchar" MaxLength="250" />
+          <Property Name="VariableType" Type="smallint" />
+          <Property Name="DataVariable" Type="nvarchar" MaxLength="50" />
+        </EntityType>
+        <Association Name="FK_Dataset_Country">
+          <End Role="Country" Type="Self.Country" Multiplicity="0..1" />
+          <End Role="Dataset" Type="Self.Dataset" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Country">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Dataset">
+              <PropertyRef Name="CountryId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Dataset_Customer">
+          <End Role="Customer" Type="Self.Customer" Multiplicity="0..1" />
+          <End Role="Dataset" Type="Self.Dataset" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Customer">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Dataset">
+              <PropertyRef Name="CustomerId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_DataSet_Variable">
+          <End Role="Variable" Type="Self.Variable" Multiplicity="1" />
+          <End Role="Dataset" Type="Self.Dataset" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Variable">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Dataset">
+              <PropertyRef Name="VariableId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="PredictiveAnalysisModelStoreContainer">
+          <EntitySet Name="Country" EntityType="Self.Country" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Customer" EntityType="Self.Customer" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Dataset" EntityType="Self.Dataset" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="DatasetRule" EntityType="Self.DatasetRule" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="StockData" EntityType="Self.StockData" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Variable" EntityType="Self.Variable" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK_Dataset_Country" Association="Self.FK_Dataset_Country">
+            <End Role="Country" EntitySet="Country" />
+            <End Role="Dataset" EntitySet="Dataset" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Dataset_Customer" Association="Self.FK_Dataset_Customer">
+            <End Role="Customer" EntitySet="Customer" />
+            <End Role="Dataset" EntitySet="Dataset" />
+          </AssociationSet>
+          <AssociationSet Name="FK_DataSet_Variable" Association="Self.FK_DataSet_Variable">
+            <End Role="Variable" EntitySet="Variable" />
+            <End Role="Dataset" EntitySet="Dataset" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="PredictiveAnalysisModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityContainer Name="PredictiveAnalysisEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Countries" EntityType="PredictiveAnalysisModel.Country" />
+          <EntitySet Name="Customers" EntityType="PredictiveAnalysisModel.Customer" />
+          <EntitySet Name="Datasets" EntityType="PredictiveAnalysisModel.Dataset" />
+          <EntitySet Name="DatasetRules" EntityType="PredictiveAnalysisModel.DatasetRule" />
+          <EntitySet Name="Variables" EntityType="PredictiveAnalysisModel.Variable" />
+          <AssociationSet Name="FK_Dataset_Country" Association="PredictiveAnalysisModel.FK_Dataset_Country">
+            <End Role="Country" EntitySet="Countries" />
+            <End Role="Dataset" EntitySet="Datasets" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Dataset_Customer" Association="PredictiveAnalysisModel.FK_Dataset_Customer">
+            <End Role="Customer" EntitySet="Customers" />
+            <End Role="Dataset" EntitySet="Datasets" />
+          </AssociationSet>
+          <AssociationSet Name="FK_DataSet_Variable" Association="PredictiveAnalysisModel.FK_DataSet_Variable">
+            <End Role="Variable" EntitySet="Variables" />
+            <End Role="Dataset" EntitySet="Datasets" />
+          </AssociationSet>
+          <EntitySet Name="StockDatas" EntityType="PredictiveAnalysisModel.StockData" />
+        </EntityContainer>
+        <EntityType Name="Country">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="DisplayName" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="Datasets" Relationship="PredictiveAnalysisModel.FK_Dataset_Country" FromRole="Country" ToRole="Dataset" />
+        </EntityType>
+        <EntityType Name="Customer">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="DisplayName" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="Datasets" Relationship="PredictiveAnalysisModel.FK_Dataset_Customer" FromRole="Customer" ToRole="Dataset" />
+        </EntityType>
+        <EntityType Name="Dataset">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="VariableId" Type="Int32" Nullable="false" />
+          <Property Name="CountryName" Type="String" Nullable="false" MaxLength="250" FixedLength="false" Unicode="true" />
+          <Property Name="CustomerName" Type="String" Nullable="false" MaxLength="250" FixedLength="false" Unicode="true" />
+          <Property Name="Year" Type="String" Nullable="false" MaxLength="250" FixedLength="false" Unicode="true" />
+          <Property Name="Month" Type="String" Nullable="false" MaxLength="250" FixedLength="false" Unicode="true" />
+          <Property Name="DataValue" Type="Double" Nullable="false" />
+          <Property Name="CustomerId" Type="Int32" />
+          <Property Name="CountryId" Type="Int32" />
+          <NavigationProperty Name="Country" Relationship="PredictiveAnalysisModel.FK_Dataset_Country" FromRole="Dataset" ToRole="Country" />
+          <NavigationProperty Name="Customer" Relationship="PredictiveAnalysisModel.FK_Dataset_Customer" FromRole="Dataset" ToRole="Customer" />
+          <NavigationProperty Name="Variable" Relationship="PredictiveAnalysisModel.FK_DataSet_Variable" FromRole="Dataset" ToRole="Variable" />
+        </EntityType>
+        <EntityType Name="DatasetRule">
+          <Key>
+            <PropertyRef Name="RuleId" />
+          </Key>
+          <Property Name="RuleId" Type="String" Nullable="false" MaxLength="10" FixedLength="false" Unicode="true" />
+          <Property Name="Expression" Type="String" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="true" />
+        </EntityType>
+        <EntityType Name="Variable">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="DisplayName" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+          <Property Name="VariableType" Type="Int16" />
+          <Property Name="DataVariable" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="Datasets" Relationship="PredictiveAnalysisModel.FK_DataSet_Variable" FromRole="Variable" ToRole="Dataset" />
+        </EntityType>
+        <Association Name="FK_Dataset_Country">
+          <End Type="PredictiveAnalysisModel.Country" Role="Country" Multiplicity="0..1" />
+          <End Type="PredictiveAnalysisModel.Dataset" Role="Dataset" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Country">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Dataset">
+              <PropertyRef Name="CountryId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Dataset_Customer">
+          <End Type="PredictiveAnalysisModel.Customer" Role="Customer" Multiplicity="0..1" />
+          <End Type="PredictiveAnalysisModel.Dataset" Role="Dataset" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Customer">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Dataset">
+              <PropertyRef Name="CustomerId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_DataSet_Variable">
+          <End Type="PredictiveAnalysisModel.Variable" Role="Variable" Multiplicity="1" />
+          <End Type="PredictiveAnalysisModel.Dataset" Role="Dataset" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Variable">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Dataset">
+              <PropertyRef Name="VariableId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityType Name="StockData">
+          <Key>
+            <PropertyRef Name="StockDataId" />
+          </Key>
+          <Property Name="Date" Type="DateTime" Precision="3" />
+          <Property Name="Open" Type="Double" />
+          <Property Name="High" Type="Double" />
+          <Property Name="Low" Type="Double" />
+          <Property Name="Close" Type="Double" />
+          <Property Name="Adj_Close" Type="Double" />
+          <Property Name="Volume" Type="Double" />
+          <Property Name="Year" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="Month" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="StockDataId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+        </EntityType>
+        </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="PredictiveAnalysisModelStoreContainer" CdmEntityContainer="PredictiveAnalysisEntities">
+          <EntitySetMapping Name="Countries">
+            <EntityTypeMapping TypeName="PredictiveAnalysisModel.Country">
+              <MappingFragment StoreEntitySet="Country">
+                <ScalarProperty Name="DisplayName" ColumnName="DisplayName" />
+                <ScalarProperty Name="Id" ColumnName="Id" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Customers">
+            <EntityTypeMapping TypeName="PredictiveAnalysisModel.Customer">
+              <MappingFragment StoreEntitySet="Customer">
+                <ScalarProperty Name="DisplayName" ColumnName="DisplayName" />
+                <ScalarProperty Name="Id" ColumnName="Id" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Datasets">
+            <EntityTypeMapping TypeName="PredictiveAnalysisModel.Dataset">
+              <MappingFragment StoreEntitySet="Dataset">
+                <ScalarProperty Name="CountryId" ColumnName="CountryId" />
+                <ScalarProperty Name="CustomerId" ColumnName="CustomerId" />
+                <ScalarProperty Name="DataValue" ColumnName="DataValue" />
+                <ScalarProperty Name="Month" ColumnName="Month" />
+                <ScalarProperty Name="Year" ColumnName="Year" />
+                <ScalarProperty Name="CustomerName" ColumnName="CustomerName" />
+                <ScalarProperty Name="CountryName" ColumnName="CountryName" />
+                <ScalarProperty Name="VariableId" ColumnName="VariableId" />
+                <ScalarProperty Name="Id" ColumnName="Id" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="DatasetRules">
+            <EntityTypeMapping TypeName="PredictiveAnalysisModel.DatasetRule">
+              <MappingFragment StoreEntitySet="DatasetRule">
+                <ScalarProperty Name="Expression" ColumnName="Expression" />
+                <ScalarProperty Name="RuleId" ColumnName="RuleId" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Variables">
+            <EntityTypeMapping TypeName="PredictiveAnalysisModel.Variable">
+              <MappingFragment StoreEntitySet="Variable">
+                <ScalarProperty Name="DataVariable" ColumnName="DataVariable" />
+                <ScalarProperty Name="VariableType" ColumnName="VariableType" />
+                <ScalarProperty Name="DisplayName" ColumnName="DisplayName" />
+                <ScalarProperty Name="Id" ColumnName="Id" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="StockDatas">
+            <EntityTypeMapping TypeName="PredictiveAnalysisModel.StockData">
+              <MappingFragment StoreEntitySet="StockData">
+                <ScalarProperty Name="StockDataId" ColumnName="StockDataId" />
+                <ScalarProperty Name="Month" ColumnName="Month" />
+                <ScalarProperty Name="Year" ColumnName="Year" />
+                <ScalarProperty Name="Volume" ColumnName="Volume" />
+                <ScalarProperty Name="Adj_Close" ColumnName="Adj Close" />
+                <ScalarProperty Name="Close" ColumnName="Close" />
+                <ScalarProperty Name="Low" ColumnName="Low" />
+                <ScalarProperty Name="High" ColumnName="High" />
+                <ScalarProperty Name="Open" ColumnName="Open" />
+                <ScalarProperty Name="Date" ColumnName="Date" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

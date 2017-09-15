@@ -1,0 +1,7 @@
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.App\bin\PredictiveAnalysis.App.dll.config
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.App\bin\PredictiveAnalysis.App.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.App\bin\PredictiveAnalysis.App.pdb
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.App\obj\Release\PredictiveAnalysis.App.csprojResolveAssemblyReference.cache
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.App\obj\Release\PredictiveAnalysis.App.csproj.CoreCompileInputs.cache
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.App\obj\Release\PredictiveAnalysis.App.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.App\obj\Release\PredictiveAnalysis.App.pdb

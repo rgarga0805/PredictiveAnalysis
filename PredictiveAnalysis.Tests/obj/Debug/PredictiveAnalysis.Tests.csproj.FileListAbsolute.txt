@@ -1,0 +1,319 @@
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\csc.exe
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\csc.exe.config
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\csc.rsp
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\csi.exe
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\csi.exe.config
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\csi.rsp
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\Microsoft.Win32.Primitives.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\System.AppContext.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\System.Console.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\System.Diagnostics.Process.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\System.Diagnostics.StackTrace.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\System.IO.Compression.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\System.IO.FileSystem.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\System.IO.Pipes.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\System.Security.AccessControl.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\System.Security.Claims.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\System.Security.Principal.Windows.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\System.Text.Encoding.CodePages.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\System.Threading.Thread.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\System.ValueTuple.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\System.Xml.ReaderWriter.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\System.Xml.XmlDocument.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\System.Xml.XPath.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\System.Xml.XPath.XDocument.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\vbc.exe
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\vbc.exe.config
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\vbc.rsp
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\Accord.dll.config
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\PredictiveAnalysis.Tests.dll.config
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\PredictiveAnalysis.Tests.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\PredictiveAnalysis.Tests.pdb
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\EntityFramework.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\EntityFramework.SqlServer.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\PredictiveAnalysis.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\System.Net.Http.Formatting.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\System.Web.Http.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\System.Web.Http.WebHost.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\PredictiveAnalysis.Domain.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\Accord.Statistics.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\Accord.Math.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\Flurl.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\Flurl.Http.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\Accord.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\Accord.Math.Core.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\PredictiveAnalysis.pdb
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\PredictiveAnalysis.dll.config
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\EntityFramework.xml
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\EntityFramework.SqlServer.xml
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\System.Net.Http.Formatting.xml
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\System.Web.Http.xml
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\System.Web.Http.WebHost.xml
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\PredictiveAnalysis.Domain.pdb
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\PredictiveAnalysis.Domain.dll.config
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\Accord.Statistics.xml
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\Accord.Math.xml
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\Flurl.xml
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\Flurl.Http.xml
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\Accord.xml
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\bin\Debug\Accord.Math.Core.xml
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\obj\Debug\PredictiveAnalysis.Tests.csprojResolveAssemblyReference.cache
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\obj\Debug\PredictiveAnalysis.Tests.csproj.CoreCompileInputs.cache
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\obj\Debug\PredictiveAnalysis.Tests.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Tests\obj\Debug\PredictiveAnalysis.Tests.pdb
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\obj\Debug\PredictiveAnalysis.Tests.csprojResolveAssemblyReference.cache
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\obj\Debug\PredictiveAnalysis.Tests.csproj.CoreCompileInputs.cache
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\Accord.dll.config
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\PredictiveAnalysis.Tests.dll.config
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\PredictiveAnalysis.Tests.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\PredictiveAnalysis.Tests.pdb
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\EntityFramework.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\EntityFramework.SqlServer.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\Flurl.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\Flurl.Http.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\System.Net.Http.Formatting.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\System.Web.Http.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\System.Web.Http.WebHost.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\PredictiveAnalysis.Domain.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\Accord.Statistics.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\Accord.Controls.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\Accord.Math.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\ZedGraph.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\Accord.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\Accord.Math.Core.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\Accord.MachineLearning.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\EntityFramework.xml
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\EntityFramework.SqlServer.xml
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\Flurl.xml
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\Flurl.Http.xml
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\System.Net.Http.Formatting.xml
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\System.Web.Http.xml
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\System.Web.Http.WebHost.xml
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\PredictiveAnalysis.Domain.pdb
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\PredictiveAnalysis.Domain.dll.config
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\Accord.Statistics.xml
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\Accord.Controls.xml
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\Accord.Math.xml
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\ZedGraph.xml
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\Accord.xml
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\Accord.Math.Core.xml
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\Accord.MachineLearning.xml
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\de\ZedGraph.resources.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\es\ZedGraph.resources.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\fr\ZedGraph.resources.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\hu\ZedGraph.resources.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\it\ZedGraph.resources.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\ja\ZedGraph.resources.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\pt\ZedGraph.resources.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\ru\ZedGraph.resources.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\sk\ZedGraph.resources.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\sv\ZedGraph.resources.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\tr\ZedGraph.resources.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\obj\Debug\PredictiveAnalysis.Tests.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\obj\Debug\PredictiveAnalysis.Tests.pdb
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\PredictiveAnalysis.Api.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\PredictiveAnalysis.Api.pdb
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\PredictiveAnalysis.Api.dll.config
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\NCalc.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\csc.exe
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\csc.exe.config
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\csc.rsp
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\csi.exe
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\csi.exe.config
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\csi.rsp
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\Microsoft.Win32.Primitives.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\System.AppContext.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\System.Console.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\System.Diagnostics.Process.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\System.Diagnostics.StackTrace.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\System.IO.Compression.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\System.IO.FileSystem.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\System.IO.Pipes.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\System.Security.AccessControl.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\System.Security.Claims.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\System.Security.Principal.Windows.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\System.Text.Encoding.CodePages.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\System.Threading.Thread.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\System.ValueTuple.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\System.Xml.ReaderWriter.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\System.Xml.XmlDocument.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\System.Xml.XPath.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\System.Xml.XPath.XDocument.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\vbc.exe
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\vbc.exe.config
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\vbc.rsp
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\obj\Debug\PredictiveAnalysis.Tests.csprojResolveAssemblyReference.cache
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\obj\Debug\PredictiveAnalysis.Tests.csproj.CoreCompileInputs.cache
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\csc.exe
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\csc.exe.config
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\csc.rsp
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\csi.exe
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\csi.exe.config
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\csi.rsp
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\Microsoft.Win32.Primitives.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\System.AppContext.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\System.Console.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\System.Diagnostics.Process.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\System.Diagnostics.StackTrace.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\System.IO.Compression.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\System.IO.FileSystem.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\System.IO.Pipes.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\System.Security.AccessControl.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\System.Security.Claims.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\System.Security.Principal.Windows.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\System.Text.Encoding.CodePages.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\System.Threading.Thread.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\System.ValueTuple.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\System.Xml.ReaderWriter.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\System.Xml.XmlDocument.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\System.Xml.XPath.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\System.Xml.XPath.XDocument.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\vbc.exe
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\vbc.exe.config
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\vbc.rsp
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\Accord.dll.config
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\PredictiveAnalysis.Tests.dll.config
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\PredictiveAnalysis.Tests.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\PredictiveAnalysis.Tests.pdb
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\EntityFramework.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\EntityFramework.SqlServer.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\Flurl.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\Flurl.Http.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\PredictiveAnalysis.Api.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\System.Net.Http.Formatting.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\System.Web.Http.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\System.Web.Http.WebHost.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\PredictiveAnalysis.Domain.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\Accord.Statistics.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\NCalc.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\Accord.Controls.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\Accord.Math.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\ZedGraph.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\Accord.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\Accord.Math.Core.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\Accord.MachineLearning.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\PredictiveAnalysis.Api.pdb
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\PredictiveAnalysis.Api.dll.config
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\EntityFramework.xml
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\EntityFramework.SqlServer.xml
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\Flurl.xml
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\Flurl.Http.xml
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\System.Net.Http.Formatting.xml
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\System.Web.Http.xml
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\System.Web.Http.WebHost.xml
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\PredictiveAnalysis.Domain.pdb
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\PredictiveAnalysis.Domain.dll.config
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\Accord.Statistics.xml
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\Accord.Controls.xml
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\Accord.Math.xml
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\ZedGraph.xml
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\Accord.xml
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\Accord.Math.Core.xml
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\Accord.MachineLearning.xml
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\de\ZedGraph.resources.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\es\ZedGraph.resources.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\fr\ZedGraph.resources.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\hu\ZedGraph.resources.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\it\ZedGraph.resources.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\ja\ZedGraph.resources.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\pt\ZedGraph.resources.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\ru\ZedGraph.resources.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\sk\ZedGraph.resources.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\sv\ZedGraph.resources.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\tr\ZedGraph.resources.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\obj\Debug\PredictiveAnalysis.Tests.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Tests\obj\Debug\PredictiveAnalysis.Tests.pdb

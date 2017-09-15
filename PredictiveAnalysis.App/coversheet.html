@@ -1,0 +1,594 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Coversheet</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+	<link href="css/bootstrap-datepicker3.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="css/style.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+	<link href="https://fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+
+<!-- Header -->
+<nav class="navbar navbar-inverse navbar-fixed-top navbar-custom" role="navigation">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">             
+                <a class="navbar-brand desktop-logo" href="#"><img src="images/Logo.png" alt=""></a>
+				<a class="navbar-brand mobile-logo" href="#"><img src="images/m-logo.png" alt=""></a>
+            </div>			
+			<div class="user-Name pull-right"> <i class="fa fa-user-circle-o fa-2x align-middle" aria-hidden="true"></i> Welcome John Smith</div>
+                                
+        </div>
+</nav>
+	
+
+<!-- Breadcrumb -->	
+<div class="row breadcrumb-row">	
+<div class="container">     
+			  <ol class="breadcrumb">
+				<li><a href="#">Home</a></li>
+				<li class="active">Coversheet (FAS)</li>        
+			  </ol>
+</div>
+</div>
+   
+
+<!-- heading -->
+<div class="row heading-row">
+<div class="container heading-row-midd">
+                <h1 class="page-header">
+                  <i class="fa fa-file-text-o" aria-hidden="true"></i>  Working Paper File Coversheet (FAS)
+                </h1>				
+				<button id="guideLinesBtn" type="button" class="btn btn-link guideline-link" ng-click="showGuideLines()" >Guidelines</button>
+</div>
+</div>
+
+<!-- Guideline popup -->
+<div class="modal fade" id="myModal" role="dialog">
+<div class="modal-dialog modal-lg">
+    
+<!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+		
+		<!--<i class="fa fa-times-circle fa-2x close" data-dismiss="modal"></i>-->
+		
+         
+          <h4 class="modal-title">Coversheet Guidelines</h4>
+        </div>
+        <div class="modal-body">
+          <p>This form must be printed on 8 1/2 X14 (legal size) paper, completed and attached to the top of each volume of the Working Paper File.
+		  <b>This Working Paper Files Cover Form must contain the signature of the deal team principal for the particular engagement. </b>
+		  Each section of the Working Paper File volume must be separated by a single sheet of legal size paper and labeled appropriately on the bottom portion. 
+		  These guidelines also apply to Working Paper Files comprised of multiple volumes. Each Working Paper File volume must contain a signed and completed cover form. 
+		  All files must be drilled and secured with a rubber band. Completed Working Paper Files must be securely packed and sent to the Los Angeles Records Department.
+		  <b>Any Working Paper Files that are sent in an incomplete form or contain discrepancies will result in an e-mail to the deal team indicating what is missing or what the discrepancy is,
+		  the Working Paper File will be marked incomplete and will appear on past due reports until the problem is rectified. </b>
+<br/>
+<br/>
+		The document checklist set forth below is for guidance only.
+		 Different or additional procedures may be required depending on the circumstances of the engagement. 
+		 Please contact the Records Department at ext. 5318 if you have any questions about whether a document or other material should be included in a Working Paper File, 
+		 or with any other questions regarding the compilation of Working Paper Files.
+</p>
+
+
+
+<div class="checkbox">
+				  <label>
+					<input type="checkbox" value="">
+					<span class="cr"><i class="cr-icon fa fa-check"></i></span>
+					<b>I have read and understood the guidelines.</b>
+				  </label>
+</div>
+
+        </div>
+        <div class="modal-footer">
+		<button type="button" class="btn btn-primary disabled">Continue</button>
+		<button type="button" class="btn btn-primary" data-dismiss="modal">Cancel</button>				        
+        </div>
+      </div>
+      
+    </div>
+  </div>
+<!-- Modal --> 
+			
+<!-- Coversheet form -->
+			
+<section id="coversheet-form">
+<div class="container">   
+  
+<div class="col-md-6 ">
+<form role="form" class="form-horizontal">
+<div class="form-group">
+      <label for="" class="control-label col-sm-4">Engagement Number:</label>
+      <div class="col-sm-8">
+	  <input class="form-control" placeholder="" type="text">
+      </div>
+</div>
+<div class="form-group">
+      <label for="" class="control-label col-sm-4">Client Number:</label>
+      <div class="col-sm-8">
+	  <input class="form-control" placeholder="" type="text">
+      </div>
+</div>
+<div class="form-group">
+      <label for="" class="control-label col-sm-4">Subject Number:</label>
+      <div class="col-sm-8">
+	  <input class="form-control" placeholder="" type="text">
+      </div>
+</div>
+</form>
+</div>
+
+<div class="col-md-6 ">
+<form role="form" class="form-horizontal">
+<div class="form-group">
+      <label for="" class="control-label col-sm-4">Engagement Name:</label>
+      <div class="col-sm-8">
+	  <input class="form-control" placeholder="" type="text">
+      </div>
+</div>
+<div class="form-group">
+      <label for="" class="control-label col-sm-4">Client Name:</label>
+      <div class="col-sm-8">
+	  <input class="form-control" placeholder="" type="text">
+      </div>
+</div>
+<div class="form-group">
+      <label for="" class="control-label col-sm-4">Subject Name:</label>
+      <div class="col-sm-8">
+	  <input class="form-control" placeholder="" type="text">
+      </div>
+</div>
+</form>
+</div>
+
+<div class="clearfix"></div>
+
+<form role="form" class="form-horizontal valuation-note-section">
+<div class="form-group">
+
+      <label class="col-sm-2 control-label">Valuation Date (s) (if any):</label>
+      <div class="col-sm-3 col-date"> <input class="form-control" id="date" name="date" placeholder="MM/DD/YYYY" type="text"/> <div class="help">Date</div></div>
+      <div class="col-sm-3 col-date"> <input class="form-control" id="date" name="date" placeholder="MM/DD/YYYY" type="text"/> <div class="help">Date</div></div>
+      <div class="col-sm-3 col-date"> <input class="form-control" id="date" name="date" placeholder="MM/DD/YYYY" type="text"/> <div class="help">Date</div></div>  
+</div>
+
+<div class="form-group">
+      <label class="col-sm-2 control-label">Notes:</label>
+      <div class="col-sm-10"><textarea class="form-control" rows="2" id="comment"></textarea></div>
+
+</div>
+</form>
+
+</div>	
+</section>
+			
+			
+<!-- Document Tab -->
+		
+<div class="container coversheet-content">
+			 
+		<div class="row">		 
+            <div class="col-md-12 document-hint-section">
+              <div class="col-md-3 col-centered"> <i class="fa fa-check-circle fa-lg"></i> Select document</div>
+			  <div class="col-md-3 col-centered"> <i class="fa fa-times-circle fa-lg"></i> Not Available</div>
+			  <div class="col-md-4 col-centered"> <i class="fa fa-arrow-circle-up fa-lg"></i> Available for electronic submission</div>			  
+            </div>      
+        </div>
+		
+<div class="row"> 
+<div class="col-md-12 doc-section">
+
+ <ul class="nav nav-tabs">
+    <li class="active"><span class="leftImg"></span><a data-toggle="tab" href="#engagement-doc">Engagement Documents </a> <span class="rightImg"></span></li>
+    <li><span class="leftImg"></span><a data-toggle="tab" href="#menu1">Transaction Documents</a><span class="rightImg"></span></li>
+    <li><span class="leftImg"></span><a data-toggle="tab" href="#menu2">Supporting and Other Documents</a><span class="rightImg"></span></li>
+    <li><span class="leftImg"></span><a data-toggle="tab" href="#menu3">Final Signed / Opinion / Report	</a><span class="rightImg"></span></li>	
+  </ul>
+
+  <div class="tab-content">
+    <div id="engagement-doc" class="tab-pane fade in active">
+	
+      <div class="col-md-4 document-wrapper">	  
+	  <span class="pull-left doc-icon"><i class="fa fa-file-text-o fa-4x success-i-color"></i> </span>	
+	  
+      <div class="pull-left">
+       <label for="" class="control-label required">  PIF Form </label>
+	   <div class="clearfix"></div>
+	   <span class="">
+	   <i class="fa fa-check-circle fa-2x" ></i> 
+	 <i class="fa fa-times-circle fa-2x"></i>
+	  <i class="fa fa-arrow-circle-up fa-2x "></i>
+	   </span>
+	  </div>
+	  
+	  <span class="doc-notes"><input id="mytext" class="form-control" placeholder="Notes" type="text" data-toggle="popover" data-trigger="hover" data-placement="top" data-content="PIF Form Show here " /></span>	  
+	  </div>
+	  	  
+	  <div class="col-md-4 document-wrapper">	  
+	  <span class="pull-left doc-icon"><i class="fa fa-file-text-o fa-4x"></i> </span>	
+	  
+      <div class="pull-left">
+       <label for="" class="control-label"> Completed Information Sheet  </label>
+	   <div class="clearfix"></div>
+	   <span class="">
+	   <i class="fa fa-check-circle fa-2x" ></i>
+	   <i class="fa fa-times-circle fa-2x"></i>
+	   <i class="fa fa-arrow-circle-up fa-2x "></i>
+	   </span>
+	  </div>
+	  
+	  <span class="doc-notes"><input class="form-control" placeholder="Notes" type="text"></span>	  
+	  </div>
+	  	  
+	  <div class="col-md-4 document-wrapper">	  
+	  <span class="pull-left doc-icon"><i class="fa fa-file-text-o fa-4x"></i> </span>	
+	  
+      <div class="pull-left">
+       <label for="" class="control-label"> Signed New Client Acceptance Form </label>
+	   <div class="clearfix"></div>
+	   <span class="">
+	   <i class="fa fa-check-circle fa-2x" ></i> 
+	   <i class="fa fa-times-circle fa-2x"></i>
+	   <i class="fa fa-arrow-circle-up fa-2x "></i>
+	   </span>
+	  </div>
+	  
+	  <span class="doc-notes"><input class="form-control" placeholder="Notes" type="text"></span>	  
+	  </div>
+	  	  
+	  <div class="col-md-4 document-wrapper">	  
+	  <span class="pull-left doc-icon"><i class="fa fa-file-text-o fa-4x success-i-color"></i> </span>	
+	  
+      <div class="pull-left">
+       <label for="" class="control-label"> Signed Retainer Agreement/Amendment </label>
+	   <div class="clearfix"></div>
+	   <span class="">
+	   <i class="fa fa-check-circle fa-2x success-i-color" ></i> 
+	   <i class="fa fa-times-circle fa-2x"></i>
+	   <i class="fa fa-arrow-circle-up fa-2x success-i-color"></i>
+	   </span>
+	  </div>
+	  
+	  <span class="doc-notes"><input class="form-control" placeholder="Notes" type="text"></span>	  
+	  </div>
+	  	  
+	  <div class="col-md-4 document-wrapper">	  
+	  <span class="pull-left doc-icon"><i class="fa fa-file-text-o fa-4x"></i> </span>	
+	  
+      <div class="pull-left">
+       <label for="" class="control-label"> Invoices </label>
+	   <div class="clearfix"></div>
+	   <span class="">
+	   <i class="fa fa-check-circle fa-2x" ></i> 
+	   <i class="fa fa-times-circle fa-2x"></i>
+	   <i class="fa fa-arrow-circle-up fa-2x "></i>
+	   </span>
+	  </div>
+	  
+	  <span class="doc-notes"><input class="form-control" placeholder="Notes" type="text"></span>	  
+	  </div>
+	  	  
+	  <div class="col-md-4 document-wrapper">	  
+	  <span class="pull-left doc-icon"><i class="fa fa-file-text-o fa-4x delete-i-color"></i> </span>	
+	  
+      <div class="pull-left">
+       <label for="" class="control-label"> Signed Subcontracting Agreements  </label>
+	   <div class="clearfix"></div>
+	   <span class="">
+	   <i class="fa fa-check-circle fa-2x" ></i> 
+	   <i class="fa fa-times-circle fa-2x delete-i-color"></i>
+	   <i class="fa fa-arrow-circle-up fa-2x "></i>
+	   </span>
+	  </div>
+	  
+	  <span class="doc-notes"><input class="form-control" placeholder="Notes" type="text"></span>	  
+	  </div>	 	  
+	 
+    </div>
+		
+    <div id="menu1" class="tab-pane fade">
+      
+	  <div class="col-md-4 document-wrapper">	  
+	  <span class="pull-left doc-icon"><i class="fa fa-file-text-o fa-4x success-i-color"></i> </span>		  
+      <div class="pull-left">
+       <label for="" class="control-label required">  PIF Form </label>
+	   <div class="clearfix"></div>
+	   <span class="">
+	   <i class="fa fa-check-circle fa-2x" ></i> 
+	   <i class="fa fa-times-circle fa-2x"></i>
+	  <i class="fa fa-arrow-circle-up fa-2x "></i>
+	   </span>
+	  </div>
+	  <span class="doc-notes"><input id="mytext" class="form-control" placeholder="Notes" type="text" data-toggle="popover" data-trigger="hover" data-placement="top" data-content="PIF Form Show here " /></span>	  
+	  </div>
+	  
+	    <div class="col-md-4 document-wrapper">	  
+	  <span class="pull-left doc-icon"><i class="fa fa-file-text-o fa-4x success-i-color"></i> </span>		  
+      <div class="pull-left">
+       <label for="" class="control-label required">  PIF Form </label>
+	   <div class="clearfix"></div>
+	   <span class="">
+	   <i class="fa fa-check-circle fa-2x" ></i> 
+	   <i class="fa fa-times-circle fa-2x"></i>
+	  <i class="fa fa-arrow-circle-up fa-2x "></i>
+	   </span>
+	  </div>
+	  <span class="doc-notes"><input id="mytext" class="form-control" placeholder="Notes" type="text" data-toggle="popover" data-trigger="hover" data-placement="top" data-content="PIF Form Show here " /></span>	  
+	  </div>
+	  
+	    <div class="col-md-4 document-wrapper">	  
+	  <span class="pull-left doc-icon"><i class="fa fa-file-text-o fa-4x success-i-color"></i> </span>		  
+      <div class="pull-left">
+       <label for="" class="control-label required">  PIF Form </label>
+	   <div class="clearfix"></div>
+	   <span class="">
+	   <i class="fa fa-check-circle fa-2x" ></i> 
+	   <i class="fa fa-times-circle fa-2x"></i>
+	  <i class="fa fa-arrow-circle-up fa-2x "></i>
+	   </span>
+	  </div>
+	  <span class="doc-notes"><input id="mytext" class="form-control" placeholder="Notes" type="text" data-toggle="popover" data-trigger="hover" data-placement="top" data-content="PIF Form Show here " /></span>	  
+	  </div>
+	  
+	    <div class="col-md-4 document-wrapper">	  
+	  <span class="pull-left doc-icon"><i class="fa fa-file-text-o fa-4x success-i-color"></i> </span>		  
+      <div class="pull-left">
+       <label for="" class="control-label required">  PIF Form </label>
+	   <div class="clearfix"></div>
+	   <span class="">
+	   <i class="fa fa-check-circle fa-2x" ></i> 
+	   <i class="fa fa-times-circle fa-2x"></i>
+	  <i class="fa fa-arrow-circle-up fa-2x "></i>
+	   </span>
+	  </div>
+	  <span class="doc-notes"><input id="mytext" class="form-control" placeholder="Notes" type="text" data-toggle="popover" data-trigger="hover" data-placement="top" data-content="PIF Form Show here " /></span>	  
+	  </div>
+	  
+	    <div class="col-md-4 document-wrapper">	  
+	  <span class="pull-left doc-icon"><i class="fa fa-file-text-o fa-4x success-i-color"></i> </span>		  
+      <div class="pull-left">
+       <label for="" class="control-label required">  PIF Form </label>
+	   <div class="clearfix"></div>
+	   <span class="">
+	   <i class="fa fa-check-circle fa-2x" ></i> 
+	   <i class="fa fa-times-circle fa-2x"></i>
+	  <i class="fa fa-arrow-circle-up fa-2x "></i>
+	   </span>
+	  </div>
+	  <span class="doc-notes"><input id="mytext" class="form-control" placeholder="Notes" type="text" data-toggle="popover" data-trigger="hover" data-placement="top" data-content="PIF Form Show here " /></span>	  
+	  </div>
+	  
+	   <div class="col-md-4 document-wrapper">	  
+	  <span class="pull-left doc-icon"><i class="fa fa-file-text-o fa-4x success-i-color"></i> </span>		  
+      <div class="pull-left">
+       <label for="" class="control-label required">  PIF Form </label>
+	   <div class="clearfix"></div>
+	   <span class="">
+	   <i class="fa fa-check-circle fa-2x" ></i> 
+	   <i class="fa fa-times-circle fa-2x"></i>
+	  <i class="fa fa-arrow-circle-up fa-2x "></i>
+	   </span>
+	  </div>
+	  <span class="doc-notes"><input id="mytext" class="form-control" placeholder="Notes" type="text" data-toggle="popover" data-trigger="hover" data-placement="top" data-content="PIF Form Show here " /></span>	  
+	  </div>
+	    <div class="col-md-4 document-wrapper">	  
+	  <span class="pull-left doc-icon"><i class="fa fa-file-text-o fa-4x success-i-color"></i> </span>		  
+      <div class="pull-left">
+       <label for="" class="control-label required">  PIF Form </label>
+	   <div class="clearfix"></div>
+	   <span class="">
+	   <i class="fa fa-check-circle fa-2x" ></i> 
+	   <i class="fa fa-times-circle fa-2x"></i>
+	  <i class="fa fa-arrow-circle-up fa-2x "></i>
+	   </span>
+	  </div>
+	  <span class="doc-notes"><input id="mytext" class="form-control" placeholder="Notes" type="text" data-toggle="popover" data-trigger="hover" data-placement="top" data-content="PIF Form Show here " /></span>	  
+	  </div>
+	  
+	  
+    </div>
+    <div id="menu2" class="tab-pane fade">
+      <h3>Supporting and Other Documents</h3>
+      <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>
+    </div>
+    <div id="menu3" class="tab-pane fade">
+    <h3>Final Signed / Opinion / Report	</h3>
+      <p>Eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+    </div>
+  </div>
+    
+<div class="col-md-12 btn-row"> 
+	 <button type="button" class="btn btn-primary">Add</button> 
+	 <button type="button" class="btn btn-primary left10">Clear</button>
+</div>
+</div>
+
+
+</div>
+
+</div>
+
+	
+<!-- selected Doc -->
+		
+<section id="selected-doc-section"> 
+
+<div class="container selected-doc-wrapper">
+<h3>Selected Documents</h3>
+<button type="button" class="btn btn-link print-btn"> <i class="fa fa-print" aria-hidden="true"></i> Print</button>
+<div class="table-responsive">
+<table class="table table-striped">
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Document Category</th>
+        <th></th>
+		<th></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>PIF Form</td>
+        <td>Engagement </td>
+        <td><a class="" href="#"><img src="images/electronic-sub-icon.png" data-toggle="tooltip" data-placement="top" title="Electronic Submission"/></a></td>
+		<td> <a href="#"><i class="fa fa-times-circle fa-lg"></i></a> </td>
+      </tr>
+      <tr>
+        <td>Signed Retainer Agreement/Amendment</td>
+        <td>Engagement </td>
+        <td><a class="left10" href="#"><img src="images/hard-copy.png" data-toggle="tooltip" data-placement="top" title="Hard Copy"/></a>
+		
+		</td>
+		<td> <a href="#"><i class="fa fa-times-circle fa-lg"></i></a> </td>
+      </tr>
+      <tr>
+        <td>Invoices</td>
+        <td>Engagement </td>
+        <td><a class="left10" href="#"><img src="images/hard-copy.png" data-toggle="tooltip" data-placement="top" title="Hard Copy"/></a></td>
+		<td><i class="fa fa-times-circle fa-lg"></i></td>
+      </tr>
+	  <tr>
+        <td>Signed Subcontracting Agreements  </td>
+        <td>Engagement </td>
+        <td><a class="" href="#"><img src="images/electronic-sub-icon.png" data-toggle="tooltip" data-placement="top" title="Electronic Submission"/></a></td>
+		<td><i class="fa fa-times-circle fa-lg"></i></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+</div>
+</section>		
+	
+<!--Approval Area-->
+	
+<div class="container">
+
+<div class="col-md-12 approval-section"> 
+
+<div class="col-md-7"> 
+<form role="form" class="form-horizontal">
+<div class="form-group">
+      <label class="col-sm-3 control-label">Deal Team Member:</label>
+      <div class="col-sm-3"><input type="text" class="form-control" placeholder="Frist Name"></div>
+      <div class="col-sm-3"><input type="text" class="form-control" placeholder="Middle Name"></div>
+      <div class="col-sm-3"><input type="text" class="form-control" placeholder="Last Name"></div>  
+</div>
+
+
+<div class="form-group">
+      <label class="col-sm-3 control-label">Principal/Manager:</label>
+     <div class="col-sm-3"><input type="text" class="form-control" placeholder="Frist Name"></div>
+     <div class="col-sm-3"><input type="text" class="form-control" placeholder="Middle Name"></div>
+     <div class="col-sm-3"><input type="text" class="form-control" placeholder="Last Name"></div>  
+</div>
+
+</form>
+</div>
+
+
+<div class="col-md-5"> 
+<form role="form" class="form-horizontal">
+<div class="form-group">
+      <label for="" class="control-label col-sm-4">Date:</label>
+      <div class="col-sm-8">
+	  <input class="form-control" id="date" name="date" placeholder="MM/DD/YYYY" type="text"/>	
+      </div>
+</div>
+
+<div class="form-group">
+      <label for="" class="control-label col-sm-4">Date:</label>
+      <div class="col-sm-8">
+	  <input class="form-control" id="date" name="date" placeholder="MM/DD/YYYY" type="text"/>
+      </div>
+</div>
+</form>
+</div>
+
+<div class="coversheet-btn-row col-md-12">
+<button type="button" class="btn btn-primary pull-right">Submit for Approval</button></div>
+</div>
+
+</div>
+				
+		
+<!-- Footer -->
+        
+<footer>
+            <div class="container">
+                <div class="col-lg-12">
+                    <p>Copyright &copy; 2017 Houlihan Lokey</p>
+                </div>
+            </div>
+</footer>
+
+  
+    <!-- /.container -->
+
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+	<script src="js/bootstrap-datepicker.min.js"></script>
+
+<script>
+	$(document).ready(function(){
+		var date_input=$('input[name="date"]'); //our date input has the name "date"
+		var container=$('.bootstrap-iso form').length>0 ? $('.bootstrap-iso form').parent() : "body";
+		date_input.datepicker({
+			format: 'mm/dd/yyyy',
+			container: container,
+			todayHighlight: true,
+			autoclose: true,
+		})
+	})
+</script>
+
+<script>
+$(document).ready(function(){
+    $('[data-toggle="tooltip"]').tooltip();   
+});
+
+$('#mytext').popover();
+$('#name').popover();
+</script>
+
+<script type="text/javascript">
+    $(window).on('load',function(){
+        $('#myModal').modal('show');
+    });
+</script>
+
+ 
+</body>
+
+</html>

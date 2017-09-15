@@ -1,0 +1,27 @@
+E:\Hackethon\Code\predictiveanalysis\08262017\App\PredictiveAnalysis.App\bin\PredictiveAnalysis.App.dll.config
+E:\Hackethon\Code\predictiveanalysis\08262017\App\PredictiveAnalysis.App\bin\PredictiveAnalysis.App.dll
+E:\Hackethon\Code\predictiveanalysis\08262017\App\PredictiveAnalysis.App\bin\PredictiveAnalysis.App.pdb
+E:\Hackethon\Code\predictiveanalysis\08262017\App\PredictiveAnalysis.App\obj\Debug\PredictiveAnalysis.App.csprojResolveAssemblyReference.cache
+E:\Hackethon\Code\predictiveanalysis\08262017\App\PredictiveAnalysis.App\obj\Debug\PredictiveAnalysis.App.csproj.CoreCompileInputs.cache
+E:\Hackethon\Code\predictiveanalysis\08262017\App\PredictiveAnalysis.App\obj\Debug\PredictiveAnalysis.App.dll
+E:\Hackethon\Code\predictiveanalysis\08262017\App\PredictiveAnalysis.App\obj\Debug\PredictiveAnalysis.App.pdb
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.App\bin\PredictiveAnalysis.App.dll.config
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.App\bin\PredictiveAnalysis.App.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.App\bin\PredictiveAnalysis.App.pdb
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.App\obj\Debug\PredictiveAnalysis.App.csproj.CoreCompileInputs.cache
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.App\obj\Debug\PredictiveAnalysis.App.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.App\obj\Debug\PredictiveAnalysis.App.pdb
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.App\bin\PredictiveAnalysis.App.dll.config
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.App\bin\PredictiveAnalysis.App.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.App\bin\PredictiveAnalysis.App.pdb
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.App\obj\Debug\PredictiveAnalysis.App.csprojResolveAssemblyReference.cache
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.App\obj\Debug\PredictiveAnalysis.App.csproj.CoreCompileInputs.cache
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.App\obj\Debug\PredictiveAnalysis.App.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.App\obj\Debug\PredictiveAnalysis.App.pdb
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.App\bin\PredictiveAnalysis.App.dll.config
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.App\bin\PredictiveAnalysis.App.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.App\bin\PredictiveAnalysis.App.pdb
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.App\obj\Debug\PredictiveAnalysis.App.csproj.CoreCompileInputs.cache
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.App\obj\Debug\PredictiveAnalysis.App.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.App\obj\Debug\PredictiveAnalysis.App.pdb
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.App\obj\Debug\PredictiveAnalysis.App.csprojResolveAssemblyReference.cache

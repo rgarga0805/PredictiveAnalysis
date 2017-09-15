@@ -1,0 +1,12 @@
+C:\Users\RSi-SEZ\Documents\Visual Studio 2012\Projects\WebAngular\WebAngular\bin\WebAngular.dll
+C:\Users\RSi-SEZ\Documents\Visual Studio 2012\Projects\WebAngular\WebAngular\bin\WebAngular.pdb
+C:\Users\RSi-SEZ\Documents\Visual Studio 2012\Projects\WebAngular\WebAngular\obj\Debug\WebAngular.csprojResolveAssemblyReference.cache
+C:\Users\RSi-SEZ\Documents\Visual Studio 2012\Projects\WebAngular\WebAngular\obj\Debug\WebAngular.dll
+C:\Users\RSi-SEZ\Documents\Visual Studio 2012\Projects\WebAngular\WebAngular\obj\Debug\WebAngular.pdb
+E:\Hackethon\Code\Source\WebAngular\WebAngular\bin\WebAngular.dll.config
+E:\Hackethon\Code\Source\WebAngular\WebAngular\bin\WebAngular.dll
+E:\Hackethon\Code\Source\WebAngular\WebAngular\bin\WebAngular.pdb
+E:\Hackethon\Code\Source\WebAngular\WebAngular\obj\Debug\WebAngular.csprojResolveAssemblyReference.cache
+E:\Hackethon\Code\Source\WebAngular\WebAngular\obj\Debug\WebAngular.csproj.CoreCompileInputs.cache
+E:\Hackethon\Code\Source\WebAngular\WebAngular\obj\Debug\WebAngular.dll
+E:\Hackethon\Code\Source\WebAngular\WebAngular\obj\Debug\WebAngular.pdb

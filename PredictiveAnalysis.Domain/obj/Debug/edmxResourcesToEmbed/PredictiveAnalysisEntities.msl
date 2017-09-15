@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="PredictiveAnalysisModelStoreContainer" CdmEntityContainer="PredictiveAnalysisEntities">
+    <EntitySetMapping Name="Countries">
+      <EntityTypeMapping TypeName="PredictiveAnalysisModel.Country">
+        <MappingFragment StoreEntitySet="Country">
+          <ScalarProperty Name="DisplayName" ColumnName="DisplayName" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Customers">
+      <EntityTypeMapping TypeName="PredictiveAnalysisModel.Customer">
+        <MappingFragment StoreEntitySet="Customer">
+          <ScalarProperty Name="DisplayName" ColumnName="DisplayName" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Datasets">
+      <EntityTypeMapping TypeName="PredictiveAnalysisModel.Dataset">
+        <MappingFragment StoreEntitySet="Dataset">
+          <ScalarProperty Name="CountryId" ColumnName="CountryId" />
+          <ScalarProperty Name="CustomerId" ColumnName="CustomerId" />
+          <ScalarProperty Name="DataValue" ColumnName="DataValue" />
+          <ScalarProperty Name="Month" ColumnName="Month" />
+          <ScalarProperty Name="Year" ColumnName="Year" />
+          <ScalarProperty Name="CustomerName" ColumnName="CustomerName" />
+          <ScalarProperty Name="CountryName" ColumnName="CountryName" />
+          <ScalarProperty Name="VariableId" ColumnName="VariableId" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DatasetRules">
+      <EntityTypeMapping TypeName="PredictiveAnalysisModel.DatasetRule">
+        <MappingFragment StoreEntitySet="DatasetRule">
+          <ScalarProperty Name="Expression" ColumnName="Expression" />
+          <ScalarProperty Name="RuleId" ColumnName="RuleId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Variables">
+      <EntityTypeMapping TypeName="PredictiveAnalysisModel.Variable">
+        <MappingFragment StoreEntitySet="Variable">
+          <ScalarProperty Name="DataVariable" ColumnName="DataVariable" />
+          <ScalarProperty Name="VariableType" ColumnName="VariableType" />
+          <ScalarProperty Name="DisplayName" ColumnName="DisplayName" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="StockDatas">
+      <EntityTypeMapping TypeName="PredictiveAnalysisModel.StockData">
+        <MappingFragment StoreEntitySet="StockData">
+          <ScalarProperty Name="StockDataId" ColumnName="StockDataId" />
+          <ScalarProperty Name="Month" ColumnName="Month" />
+          <ScalarProperty Name="Year" ColumnName="Year" />
+          <ScalarProperty Name="Volume" ColumnName="Volume" />
+          <ScalarProperty Name="Adj_Close" ColumnName="Adj Close" />
+          <ScalarProperty Name="Close" ColumnName="Close" />
+          <ScalarProperty Name="Low" ColumnName="Low" />
+          <ScalarProperty Name="High" ColumnName="High" />
+          <ScalarProperty Name="Open" ColumnName="Open" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

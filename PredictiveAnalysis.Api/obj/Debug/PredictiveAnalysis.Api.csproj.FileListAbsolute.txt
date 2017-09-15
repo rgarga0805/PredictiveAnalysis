@@ -1,0 +1,419 @@
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\roslyn\csc.exe
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\roslyn\csc.exe.config
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\roslyn\csc.rsp
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\roslyn\csi.exe
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\roslyn\csi.exe.config
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\roslyn\csi.rsp
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\roslyn\System.AppContext.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\roslyn\System.Collections.Immutable.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\roslyn\System.Console.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\roslyn\System.Diagnostics.Process.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\roslyn\System.IO.Compression.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\roslyn\System.IO.FileSystem.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\roslyn\System.IO.Pipes.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\roslyn\System.Reflection.Metadata.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\roslyn\System.Security.AccessControl.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\roslyn\System.Security.Claims.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\roslyn\System.Threading.Thread.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\roslyn\System.ValueTuple.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\roslyn\System.Xml.XPath.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\roslyn\vbc.exe
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\roslyn\vbc.exe.config
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\roslyn\vbc.rsp
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\roslyn\VBCSCompiler.exe
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\roslyn\VBCSCompiler.exe.config
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\Accord.dll.config
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\PredictiveAnalysis.dll.config
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\PredictiveAnalysis.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\PredictiveAnalysis.pdb
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\Accord.Controls.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\Accord.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\Accord.MachineLearning.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\Accord.Math.Core.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\Accord.Math.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\Accord.Statistics.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\EntityFramework.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\EntityFramework.SqlServer.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\Newtonsoft.Json.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\PredictiveAnalysis.Domain.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\System.Net.Http.Formatting.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\System.Web.Http.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\System.Web.Http.WebHost.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\ZedGraph.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\PredictiveAnalysis.Domain.pdb
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\PredictiveAnalysis.Domain.dll.config
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\Accord.xml
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\Accord.Controls.xml
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\Accord.MachineLearning.xml
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\Accord.Math.xml
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\Accord.Math.Core.xml
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\Accord.Statistics.xml
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\EntityFramework.xml
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\EntityFramework.SqlServer.xml
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\ZedGraph.xml
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\Newtonsoft.Json.xml
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\System.Net.Http.Formatting.xml
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\System.Web.Http.xml
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\System.Web.Http.WebHost.xml
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\de\ZedGraph.resources.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\es\ZedGraph.resources.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\fr\ZedGraph.resources.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\hu\ZedGraph.resources.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\it\ZedGraph.resources.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\ja\ZedGraph.resources.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\pt\ZedGraph.resources.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\ru\ZedGraph.resources.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\sk\ZedGraph.resources.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\sv\ZedGraph.resources.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\tr\ZedGraph.resources.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\zh-cn\ZedGraph.resources.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\bin\zh-tw\ZedGraph.resources.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\obj\Debug\PredictiveAnalysis.Api.csprojResolveAssemblyReference.cache
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\obj\Debug\PredictiveAnalysis.Api.csproj.CoreCompileInputs.cache
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\obj\Debug\PredictiveAnalysis.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\PredictiveAnalysis\PredictiveAnalysis\obj\Debug\PredictiveAnalysis.pdb
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\roslyn\csc.exe
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\roslyn\csc.exe.config
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\roslyn\csc.rsp
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\roslyn\csi.exe
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\roslyn\csi.exe.config
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\roslyn\csi.rsp
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\roslyn\System.AppContext.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\roslyn\System.Collections.Immutable.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\roslyn\System.Console.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\roslyn\System.Diagnostics.Process.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\roslyn\System.IO.Compression.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\roslyn\System.IO.FileSystem.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\roslyn\System.IO.Pipes.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\roslyn\System.Reflection.Metadata.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\roslyn\System.Security.AccessControl.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\roslyn\System.Security.Claims.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\roslyn\System.Threading.Thread.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\roslyn\System.ValueTuple.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\roslyn\System.Xml.XPath.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\roslyn\vbc.exe
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\roslyn\vbc.exe.config
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\roslyn\vbc.rsp
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\roslyn\VBCSCompiler.exe
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\roslyn\VBCSCompiler.exe.config
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\Accord.dll.config
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\PredictiveAnalysis.dll.config
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\PredictiveAnalysis.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\PredictiveAnalysis.pdb
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\Accord.Controls.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\Accord.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\Accord.MachineLearning.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\Accord.Math.Core.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\Accord.Math.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\Accord.Statistics.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\EntityFramework.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\EntityFramework.SqlServer.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\Flurl.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\Flurl.Http.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\Newtonsoft.Json.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\PredictiveAnalysis.Domain.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\RestSharp.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\System.Net.Http.Formatting.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\System.Web.Http.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\System.Web.Http.WebHost.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\ZedGraph.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\PredictiveAnalysis.Domain.pdb
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\PredictiveAnalysis.Domain.dll.config
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\Accord.xml
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\Accord.Controls.xml
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\Accord.MachineLearning.xml
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\Accord.Math.xml
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\Accord.Math.Core.xml
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\Accord.Statistics.xml
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\EntityFramework.xml
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\EntityFramework.SqlServer.xml
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\Flurl.xml
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\Flurl.Http.xml
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\Newtonsoft.Json.xml
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\RestSharp.xml
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\ZedGraph.xml
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\System.Net.Http.Formatting.xml
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\System.Web.Http.xml
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\System.Web.Http.WebHost.xml
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\de\ZedGraph.resources.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\es\ZedGraph.resources.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\fr\ZedGraph.resources.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\hu\ZedGraph.resources.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\it\ZedGraph.resources.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\ja\ZedGraph.resources.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\pt\ZedGraph.resources.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\ru\ZedGraph.resources.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\sk\ZedGraph.resources.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\sv\ZedGraph.resources.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\tr\ZedGraph.resources.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\zh-cn\ZedGraph.resources.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\bin\zh-tw\ZedGraph.resources.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\obj\Debug\PredictiveAnalysis.Api.csprojResolveAssemblyReference.cache
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\obj\Debug\PredictiveAnalysis.Api.csproj.CoreCompileInputs.cache
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\obj\Debug\PredictiveAnalysis.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Api\obj\Debug\PredictiveAnalysis.pdb
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\csc.exe
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\csc.exe.config
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\csc.rsp
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\csi.exe
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\csi.exe.config
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\csi.rsp
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\System.AppContext.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\System.Collections.Immutable.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\System.Console.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\System.Diagnostics.Process.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\System.IO.Compression.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\System.IO.FileSystem.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\System.IO.Pipes.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\System.Reflection.Metadata.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\System.Security.AccessControl.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\System.Security.Claims.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\System.Threading.Thread.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\System.ValueTuple.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\System.Xml.XPath.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\vbc.exe
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\vbc.exe.config
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\vbc.rsp
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\VBCSCompiler.exe
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\VBCSCompiler.exe.config
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\Accord.dll.config
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\Accord.Controls.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\Accord.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\Accord.MachineLearning.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\Accord.Math.Core.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\Accord.Math.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\Accord.Statistics.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\EntityFramework.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\EntityFramework.SqlServer.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\Flurl.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\Flurl.Http.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\Newtonsoft.Json.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\PredictiveAnalysis.Domain.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\RestSharp.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\System.Net.Http.Formatting.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\System.Web.Http.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\System.Web.Http.WebHost.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\ZedGraph.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\PredictiveAnalysis.Domain.pdb
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\PredictiveAnalysis.Domain.dll.config
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\Accord.xml
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\Accord.Controls.xml
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\Accord.MachineLearning.xml
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\Accord.Math.xml
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\Accord.Math.Core.xml
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\Accord.Statistics.xml
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\EntityFramework.xml
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\EntityFramework.SqlServer.xml
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\Flurl.xml
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\Flurl.Http.xml
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\Newtonsoft.Json.xml
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\RestSharp.xml
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\ZedGraph.xml
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\System.Net.Http.Formatting.xml
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\System.Web.Http.xml
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\System.Web.Http.WebHost.xml
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\de\ZedGraph.resources.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\es\ZedGraph.resources.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\fr\ZedGraph.resources.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\hu\ZedGraph.resources.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\it\ZedGraph.resources.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\ja\ZedGraph.resources.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\pt\ZedGraph.resources.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\ru\ZedGraph.resources.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\sk\ZedGraph.resources.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\sv\ZedGraph.resources.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\tr\ZedGraph.resources.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\zh-cn\ZedGraph.resources.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\zh-tw\ZedGraph.resources.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\obj\Debug\PredictiveAnalysis.Api.csprojResolveAssemblyReference.cache
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\obj\Debug\PredictiveAnalysis.Api.csproj.CoreCompileInputs.cache
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\PredictiveAnalysis.Api.dll.config
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\PredictiveAnalysis.Api.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\PredictiveAnalysis.Api.pdb
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\obj\Debug\PredictiveAnalysis.Api.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\obj\Debug\PredictiveAnalysis.Api.pdb
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Api\bin\NCalc.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\csc.exe
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\csc.exe.config
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\csc.rsp
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\csi.exe
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\csi.exe.config
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\csi.rsp
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\System.AppContext.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\System.Collections.Immutable.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\System.Console.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\System.Diagnostics.Process.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\System.IO.Compression.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\System.IO.FileSystem.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\System.IO.Pipes.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\System.Reflection.Metadata.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\System.Security.AccessControl.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\System.Security.Claims.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\System.Threading.Thread.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\System.ValueTuple.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\System.Xml.XPath.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\vbc.exe
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\vbc.exe.config
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\vbc.rsp
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\VBCSCompiler.exe
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\roslyn\VBCSCompiler.exe.config
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\Accord.dll.config
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\PredictiveAnalysis.Api.dll.config
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\PredictiveAnalysis.Api.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\PredictiveAnalysis.Api.pdb
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\Accord.Controls.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\Accord.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\Accord.MachineLearning.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\Accord.Math.Core.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\Accord.Math.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\Accord.Statistics.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\EntityFramework.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\EntityFramework.SqlServer.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\Flurl.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\Flurl.Http.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\Newtonsoft.Json.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\PredictiveAnalysis.Domain.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\RestSharp.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\System.Net.Http.Formatting.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\System.Web.Http.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\System.Web.Http.WebHost.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\ZedGraph.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\PredictiveAnalysis.Domain.pdb
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\PredictiveAnalysis.Domain.dll.config
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\Accord.xml
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\Accord.Controls.xml
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\Accord.MachineLearning.xml
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\Accord.Math.xml
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\Accord.Math.Core.xml
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\Accord.Statistics.xml
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\EntityFramework.xml
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\EntityFramework.SqlServer.xml
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\Flurl.xml
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\Flurl.Http.xml
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\Newtonsoft.Json.xml
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\RestSharp.xml
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\ZedGraph.xml
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\System.Net.Http.Formatting.xml
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\System.Web.Http.xml
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\System.Web.Http.WebHost.xml
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\de\ZedGraph.resources.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\es\ZedGraph.resources.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\fr\ZedGraph.resources.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\hu\ZedGraph.resources.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\it\ZedGraph.resources.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\ja\ZedGraph.resources.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\pt\ZedGraph.resources.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\ru\ZedGraph.resources.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\sk\ZedGraph.resources.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\sv\ZedGraph.resources.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\tr\ZedGraph.resources.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\zh-cn\ZedGraph.resources.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\bin\zh-tw\ZedGraph.resources.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\obj\Debug\PredictiveAnalysis.Api.csprojResolveAssemblyReference.cache
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\obj\Debug\PredictiveAnalysis.Api.csproj.CoreCompileInputs.cache
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\obj\Debug\PredictiveAnalysis.Api.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Api\obj\Debug\PredictiveAnalysis.Api.pdb

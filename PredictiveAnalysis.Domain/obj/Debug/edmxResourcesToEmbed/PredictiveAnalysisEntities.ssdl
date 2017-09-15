@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="PredictiveAnalysisModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Country">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="DisplayName" Type="nvarchar" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="Customer">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="DisplayName" Type="nvarchar" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="Dataset">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="VariableId" Type="int" Nullable="false" />
+    <Property Name="CountryName" Type="nvarchar" MaxLength="250" Nullable="false" />
+    <Property Name="CustomerName" Type="nvarchar" MaxLength="250" Nullable="false" />
+    <Property Name="Year" Type="nvarchar" MaxLength="250" Nullable="false" />
+    <Property Name="Month" Type="nvarchar" MaxLength="250" Nullable="false" />
+    <Property Name="DataValue" Type="float" Nullable="false" />
+    <Property Name="CustomerId" Type="int" />
+    <Property Name="CountryId" Type="int" />
+  </EntityType>
+  <EntityType Name="DatasetRule">
+    <Key>
+      <PropertyRef Name="RuleId" />
+    </Key>
+    <Property Name="RuleId" Type="nvarchar" MaxLength="10" Nullable="false" />
+    <Property Name="Expression" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="StockData">
+    <Key>
+      <PropertyRef Name="StockDataId" />
+    </Key>
+    <Property Name="Date" Type="datetime" />
+    <Property Name="Open" Type="float" />
+    <Property Name="High" Type="float" />
+    <Property Name="Low" Type="float" />
+    <Property Name="Close" Type="float" />
+    <Property Name="Adj Close" Type="float" />
+    <Property Name="Volume" Type="float" />
+    <Property Name="Year" Type="nvarchar" MaxLength="255" />
+    <Property Name="Month" Type="nvarchar" MaxLength="255" />
+    <Property Name="StockDataId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Variable">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="DisplayName" Type="nvarchar" MaxLength="250" />
+    <Property Name="VariableType" Type="smallint" />
+    <Property Name="DataVariable" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <Association Name="FK_Dataset_Country">
+    <End Role="Country" Type="Self.Country" Multiplicity="0..1" />
+    <End Role="Dataset" Type="Self.Dataset" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Country">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Dataset">
+        <PropertyRef Name="CountryId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Dataset_Customer">
+    <End Role="Customer" Type="Self.Customer" Multiplicity="0..1" />
+    <End Role="Dataset" Type="Self.Dataset" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Customer">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Dataset">
+        <PropertyRef Name="CustomerId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_DataSet_Variable">
+    <End Role="Variable" Type="Self.Variable" Multiplicity="1" />
+    <End Role="Dataset" Type="Self.Dataset" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Variable">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Dataset">
+        <PropertyRef Name="VariableId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="PredictiveAnalysisModelStoreContainer">
+    <EntitySet Name="Country" EntityType="Self.Country" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Customer" EntityType="Self.Customer" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Dataset" EntityType="Self.Dataset" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="DatasetRule" EntityType="Self.DatasetRule" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="StockData" EntityType="Self.StockData" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Variable" EntityType="Self.Variable" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Dataset_Country" Association="Self.FK_Dataset_Country">
+      <End Role="Country" EntitySet="Country" />
+      <End Role="Dataset" EntitySet="Dataset" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Dataset_Customer" Association="Self.FK_Dataset_Customer">
+      <End Role="Customer" EntitySet="Customer" />
+      <End Role="Dataset" EntitySet="Dataset" />
+    </AssociationSet>
+    <AssociationSet Name="FK_DataSet_Variable" Association="Self.FK_DataSet_Variable">
+      <End Role="Variable" EntitySet="Variable" />
+      <End Role="Dataset" EntitySet="Dataset" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

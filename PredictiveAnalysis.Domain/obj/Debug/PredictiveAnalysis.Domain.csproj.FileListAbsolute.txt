@@ -1,0 +1,32 @@
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Domain\bin\Debug\PredictiveAnalysis.Domain.dll.config
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Domain\bin\Debug\PredictiveAnalysis.Domain.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Domain\bin\Debug\PredictiveAnalysis.Domain.pdb
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Domain\bin\Debug\EntityFramework.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Domain\bin\Debug\EntityFramework.xml
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Domain\obj\Debug\PredictiveAnalysis.Domain.csprojResolveAssemblyReference.cache
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Domain\obj\Debug\PredictiveAnalysis.Domain.csproj.CoreCompileInputs.cache
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Domain\obj\Debug\PredictiveAnalysis.Domain.dll
+D:\Repository\HCL Hackathon\UpdatedPredictiveAnalysis\PredictiveAnalysis.Domain\obj\Debug\PredictiveAnalysis.Domain.pdb
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Domain\bin\Debug\PredictiveAnalysis.Domain.dll.config
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Domain\bin\Debug\PredictiveAnalysis.Domain.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Domain\bin\Debug\PredictiveAnalysis.Domain.pdb
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Domain\bin\Debug\EntityFramework.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Domain\bin\Debug\EntityFramework.xml
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Domain\obj\Debug\PredictiveAnalysis.Domain.csproj.CoreCompileInputs.cache
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Domain\obj\Debug\PredictiveAnalysis.Domain.dll
+D:\Repository\projects@bitbucket\fuzzifiersaints\predictiveanalysis\PredictiveAnalysis.Domain\obj\Debug\PredictiveAnalysis.Domain.pdb
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Domain\bin\Debug\PredictiveAnalysis.Domain.dll.config
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Domain\bin\Debug\PredictiveAnalysis.Domain.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Domain\bin\Debug\PredictiveAnalysis.Domain.pdb
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Domain\bin\Debug\EntityFramework.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Domain\bin\Debug\EntityFramework.xml
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Domain\obj\Debug\PredictiveAnalysis.Domain.csproj.CoreCompileInputs.cache
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Domain\obj\Debug\PredictiveAnalysis.Domain.dll
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Domain\obj\Debug\PredictiveAnalysis.Domain.pdb
+D:\Repository\HCL Hackathon\Projects\predictiveanalysis\PredictiveAnalysis.Domain\obj\Debug\PredictiveAnalysis.Domain.csprojResolveAssemblyReference.cache

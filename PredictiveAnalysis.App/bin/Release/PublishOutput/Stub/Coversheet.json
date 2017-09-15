@@ -1,0 +1,55 @@
+﻿{
+  "Workout1": {
+    "Name": "First",
+    "Rounds": [
+      {
+        "Exercises": [
+          {
+            "Name": "Exercise1",
+            "Repeat": 10
+          },
+          {
+            "Name": "Exercise2",
+            "Repeat": 10
+          },
+          {
+            "Name": "Exercise3",
+            "Repeat": 10
+          }
+        ]
+      },
+      {
+        "Exercises": [
+          {
+            "Name": "Exercise1",
+            "Repeat": 20
+          },
+          {
+            "Name": "Exercise2",
+            "Repeat": 20
+          },
+          {
+            "Name": "Exercise3",
+            "Repeat": 20
+          }
+        ]
+      },
+      {
+        "Exercises": [
+          {
+            "Name": "Exercise1",
+            "Repeat": 30
+          },
+          {
+            "Name": "Exercise2",
+            "Repeat": 30
+          },
+          {
+            "Name": "Exercise3",
+            "Repeat": 30
+          }
+        ]
+      }
+    ]
+  }
+}

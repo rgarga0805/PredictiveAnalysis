@@ -1,0 +1,425 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>SB Admin - Start Bootstrap Template</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom fonts for this template -->
+    <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+
+    <!-- Plugin CSS -->
+    <link href="vendor/datatables/dataTables.bootstrap4.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="css/style.css" rel="stylesheet">
+
+  </head>
+
+  <body class="fixed-nav sticky-footer bg-dark" id="page-top" ng-app="myModule" ng-controller="wpfController"  ng-init="disableDuration=true">
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="mainNav">
+      <a class="navbar-brand" href="#">CCPM</a>
+      <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav navbar-sidenav" id="exampleAccordion">
+         <!--<li class="nav-item active customerList" data-toggle="tooltip" data-placement="right" title="" id="{{customer.id}}" ng-repeat="customer in ChurnModelInfo.Customers" ng-click="calculateChurn($event)">-->
+            <li class="nav-item active customerList" data-toggle="tooltip" data-placement="right" title="" id="{{customer.id}}" data-name="{{customer.displayName}}" ng-repeat="customer in ChurnModelInfo.Customers">
+                <a class="nav-link nav-link-collapse collapsed" data-toggle="collapse" href="#collapseMulti_{{customer.id}}">
+                    <img src="/images/{{customer.logo}}" width="32" height="32">
+                    <!--<i class="fa fa-fw fa-car"></i>-->
+                    <span class="nav-link-text">
+                        {{customer.displayName}}
+                    </span>
+                    
+                </a>
+                
+                <ul class="sidenav-second-level collapse" id="collapseMulti_{{customer.id}}" style="">
+                    <hr style="background: #fff;" />
+                    <span class="spLabels">Select KPIs </span>
+                    <hr style="background: #fff;" />
+                    <li  ng-repeat="KPI in customer.KPIPerCustomer" id="Cust_{{customer.id}}kpi_{{KPI.Id}}">
+                        <div class="checkbox">
+                            <label><input ng-checked="$parent.KPI[$index].checked" type="checkbox" ng-true-value="true" , ng-false-value="false" ng-model="KPI[customer.id][KPI.Id].checked" value="KPI.selected">{{KPI.DisplayName}}</label>
+                            <span>{{KPI[customer.id][KPI.Id].checked}}</span>
+                        </div>
+                    </li>
+                    
+                    <hr style="background: #fff;" />
+                    <span class="spLabels">Select TimeLine</span>
+                    <hr style="background: #fff;" />
+                    <!--<select data-ng-model= "selectedYear[customer.id]" value="{{selectedYear[customer.id]}}" class="timeLineDropDown"  ng-change="changeSelectedItem(selectedYear[customer.id])" ng-options="x for x in timeLine"></select>
+                    <div>{{selectedYear[customer.id]}}tetetetetetetetet</div>-->
+                    <select data-ng-model="selectedYear.customer[$index]"  class="timeLineDropDown" ng-change="$parent.changeSelectedItem(selectedYear.customer[$index])" ng-options="x for x in timeLine"></select>
+                    <!--<div>{{selectedYear.customer[$index]}}tetetetetetetetet</div>-->
+                    <li><button class="btn btn-primary btn-sm" type="button" id="submit_{{customer.id}}" data-cusomerid="{{customer.id}}" ng-click="calculateChurn(customer.id)">Submit</button></li>
+                </ul>
+            </li>
+            <li class="nav-item" data-toggle="tooltip" data-placement="right" title="" data-original-title="Charts">
+                <a class="nav-link" href="#">
+                    <i class="fa fa-fw fa-area-chart"></i>
+                    <span class="nav-link-text">
+                        STOCK ANALYSIS
+                    </span>
+                </a>
+            </li>
+        </ul>
+        <ul class="navbar-nav sidenav-toggler">
+          <li class="nav-item">
+            <a class="nav-link text-center" id="sidenavToggler">
+              <i class="fa fa-fw fa-angle-left"></i>
+            </a>
+          </li>
+        </ul>
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle mr-lg-2" href="#" id="messagesDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              <i class="fa fa-fw fa-envelope"></i>
+              <span class="d-lg-none">Messages
+                <span class="badge badge-pill badge-primary">12 New</span>
+              </span>
+              <span class="new-indicator text-primary d-none d-lg-block">
+                <i class="fa fa-fw fa-circle"></i>
+                <span class="number">12</span>
+              </span>
+            </a>
+            <div class="dropdown-menu" aria-labelledby="messagesDropdown">
+              <h6 class="dropdown-header">New Messages:</h6>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="#">
+                <strong>FordMotor</strong>
+                <span class="small float-right text-muted">11:21 AM</span>
+                <div class="dropdown-message small">Hey there! This new version of SB Admin is pretty awesome! These messages clip off when they reach the end of the box so they don't overflow over to the sides!</div>
+              </a>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="#">
+                <strong> Jane Smith</strong>
+                <span class="small float-right text-muted">11:21 AM</span>
+                <div class="dropdown-message small">I was wondering if you could meet for an appointment at 3:00 instead of 4:00. Thanks!</div>
+              </a>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="#">
+                <strong>John Doe</strong>
+                <span class="small float-right text-muted">11:21 AM</span>
+                <div class="dropdown-message small">I've sent the final files over to you for review. When you're able to sign off of them let me know and we can discuss distribution.</div>
+              </a>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item small" href="#">
+                View all messages
+              </a>
+            </div>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle mr-lg-2" href="#" id="alertsDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              <i class="fa fa-fw fa-bell"></i>
+              <span class="d-lg-none">Alerts
+                <span class="badge badge-pill badge-warning">6 New</span>
+              </span>
+              <span class="new-indicator text-warning d-none d-lg-block">
+                <i class="fa fa-fw fa-circle"></i>
+                <span class="number">6</span>
+              </span>
+            </a>
+            <div class="dropdown-menu" aria-labelledby="alertsDropdown">
+              <h6 class="dropdown-header">New Alerts:</h6>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="#">
+                <span class="text-success">
+                  <strong>
+                    <i class="fa fa-long-arrow-up"></i>
+                    Status Update</strong>
+                </span>
+                <span class="small float-right text-muted">11:21 AM</span>
+                <div class="dropdown-message small">This is an automated server response message. All systems are online.</div>
+              </a>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="#">
+                <span class="text-danger">
+                  <strong>
+                    <i class="fa fa-long-arrow-down"></i>
+                    Status Update</strong>
+                </span>
+                <span class="small float-right text-muted">11:21 AM</span>
+                <div class="dropdown-message small">This is an automated server response message. All systems are online.</div>
+              </a>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="#">
+                <span class="text-success">
+                  <strong>
+                    <i class="fa fa-long-arrow-up"></i>
+                    Status Update</strong>
+                </span>
+                <span class="small float-right text-muted">11:21 AM</span>
+                <div class="dropdown-message small">This is an automated server response message. All systems are online.</div>
+              </a>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item small" href="#">
+                View all alerts
+              </a>
+            </div>
+          </li>
+
+          <li class="nav-item">
+            <a class="nav-link" data-toggle="modal" data-target="#exampleModal">
+              <i class="fa fa-fw fa-sign-out"></i>
+              Logout</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+
+    <div class="content-wrapper">
+
+      <div class="container-fluid">
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li class="breadcrumb-item">
+            <a href="#">Dashboard</a>
+          </li>
+          <li class="breadcrumb-item active">My Dashboard</li>
+        </ol>
+
+        <!-- Icon Cards -->
+          <div class="row">
+              <div class="banner">
+                  <div class="logo-Name"> <b>Churn Predictive</b> Model </div>
+              </div>
+          </div>
+
+        <!-- Area Chart Example -->
+        <div class="row">
+		<div class="progress-Wrap"> 
+        <button class="btn btn-primary" style="margin-left: 5px;" type="button" ng-repeat="durationInfo in ChurnModelInfo.Durarion" >{{durationInfo.displayName}}</button>
+		</div>
+          <div class="col-lg-8">
+		  
+		  <div class="card mb-3">
+              <div class="card-header">
+                <i class="fa fa-bar-chart"></i>
+                Scatter Plot
+              </div>
+              <div class="card-body">
+                <div class="row">
+                  <div class="col-sm-8 my-auto"><iframe class="chartjs-hidden-iframe" tabindex="-1" style="display: block; overflow: hidden; border: 0px; margin: 0px; top: 0px; left: 0px; bottom: 0px; right: 0px; height: 100%; width: 100%; position: absolute; pointer-events: none; z-index: -1;"></iframe>
+                    <!--</canvas>-->
+                          <canvas id="myAreaChart1" width="100%" height="30"></canvas>
+                  </div>
+                  <div class="col-sm-4 text-center my-auto">
+                    <div class="h4 mb-0 text-primary">{{churnRate}}%</div>
+                    <div class="small text-muted">Total Churn Rate</div>
+                    <hr>
+                    <div class="h4 mb-0 text-warning">{{churnPositive}}</div>
+                    <div class="small text-muted">Churn</div>
+                    <hr>
+                    <div class="h4 mb-0 text-success">Click to View the offer</div>
+                    <div class="small text-muted">Offer to Extend</div>
+                  </div>
+                </div>
+              </div>
+              <div class="card-footer small text-muted">
+                Updated yesterday at 11:59 PM
+              </div>
+            </div>
+
+		  <div class="card mb-3">
+          <div class="card-header">
+            <i class="fa fa-table"></i>
+            Data Table Example
+          </div>
+          <div class="card-body">
+            <div class="table-responsive">
+                <div class="panel panel-default dtTable" id="statisticalData" visible="false">
+
+            </div>
+          </div>
+          <div class="card-footer small text-muted">
+            Updated yesterday at 11:59 PM
+          </div>
+        </div>
+		  
+          </div>
+</div>
+          <div class="col-lg-4">
+            <!-- Example Pie Chart Card -->
+            <div class="card mb-3">
+              <div class="card-header">
+                <i class="fa fa-bar-chart"></i>
+                State Wise Churn Rate
+              </div>
+              <div class="card-body">
+                <!--<canvas id="myPieChart" width="100%" height="100"></canvas>-->
+                  <canvas id="myBarChart1" width="100" height="50"></canvas>
+              </div>
+              <div class="card-footer small text-muted">
+                Updated yesterday at 11:59 PM
+              </div>
+            </div>
+            <!-- Example Notifications Card -->
+            <div class="card mb-3">
+              <div class="card-header">
+                <i class="fa fa-bell-o"></i>
+                Customer Review Score
+              </div>
+              <div class="list-group list-group-flush small">
+                <a href="#" class="list-group-item list-group-item-action">
+                  <div class="media">
+                    <img class="d-flex mr-3 rounded-circle" src="http://placehold.it/45x45" alt="">
+                    <!--<div class="media-body">
+                      <strong>David Miller</strong>
+                      posted a new article to
+                      <strong>David Miller Website</strong>.
+                      <div class="text-muted smaller">Today at 5:43 PM - 5m ago</div>
+                    </div>-->
+                      <button class="btn btn-primary btn-sm" type="button" id="submit_{{customer.id}}" data-cusomerid="{{customer.id}}" ng-click="callNPLResult()">Run Analysis</button>
+                  </div>
+
+
+                    <div class="card-body">
+                        <div class="h4 mb-0 text-primary">{{customerFeedbackReview}}</div>
+                        <div class="small text-muted">{{}}Review</div>
+                        <hr>
+                        <div class="h4 mb-0 text-warning">{{customerFeedbackReviewBool}}</div>
+                        <div class="small text-muted">Feedback</div>
+                        <hr>
+                        <div class="h4 mb-0 text-success">Sadness:{{customerEmotionAnger}},Joy:{{customerEmotionJoy}}</div>
+                        <div class="small text-muted">Customer Emotions</div>
+
+                    </div>  
+
+                </a>
+               
+              </div>
+              <div class="card-footer small text-muted">
+                Updated yesterday at 11:59 PM
+              </div>
+            </div>
+			
+			<div  class="card mb-3">
+			 <div class="card-header">
+                <i class="fa fa-bell-o"></i>
+                Validate Model
+              </div>
+			<div class="card-body">
+			 <!--<div class="h4 mb-0 text-primary">$34,693</div>
+                    <div class="small text-muted">YTD Revenue</div>
+                    <hr>
+                    <div class="h4 mb-0 text-warning">$18,474</div>
+                    <div class="small text-muted">YTD Expenses</div>
+                    <hr>
+                    <div class="h4 mb-0 text-success">$16,219</div>
+                    <div class="small text-muted">YTD Margin</div>-->
+                <table style="width:100%">
+                    <caption>Model Validation</caption>
+                    <div class="h4 mb-0 text-success">{{accuracy}}</div>
+                    <div class="small text-muted">Accuracy of Model</div>
+                    <tr>
+                        <th></th>
+                        <th>False</th>
+                        <th>True</th>
+                    </tr>
+                    <tr>
+
+                        <td>Actual 0</td>
+                        <td>{{trueNegative}}</td>
+                        <td>{{falseNegative}}</td>
+                    </tr>
+                    <tr>
+                        <td>Actual 1</td>
+                        <!--<td></td>
+                        <td></td>-->
+                        <td>{{falsePositive}}</td>
+                        <td>{{truePositive}}</td>
+                    </tr>
+                </table>
+			
+			</div>
+          </div>
+        </div>
+
+        <!-- Example Tables Card -->
+        
+      </div>
+      <!-- /.container-fluid -->
+
+    </div>
+          </div>
+        
+    <!-- /.content-wrapper -->
+
+    <footer class="sticky-footer">
+      <div class="container">
+        <div class="text-center">
+          <small>Copyright &copy; Your Website 2017</small>
+        </div>
+      </div>
+    </footer>
+
+    <!-- Scroll to Top Button -->
+    <a class="scroll-to-top rounded" href="#page-top">
+      <i class="fa fa-angle-up"></i>
+    </a>
+
+    <!-- Logout Modal -->
+    <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="exampleModalLabel">Ready to Leave?</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body">
+            Select "Logout" below if you are ready to end your current session.
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-secondary" data-dismiss="modal">Cancel</button>
+            <a class="btn btn-primary" href="login.html">Logout</a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/popper/popper.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+    <script src="vendor/chart.js/Chart.min.js"></script>
+    <script src="vendor/datatables/jquery.dataTables.js"></script>
+    <script src="vendor/datatables/dataTables.bootstrap4.js"></script>
+       
+        
+      
+        <script src="Scripts/angular.min.js"></script>
+        <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/angularjs/1.2.10/angular-sanitize.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-filter/0.5.8/angular-filter.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-bootstrap/2.5.0/ui-bootstrap-tpls.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-utils/0.1.1/angular-ui-utils.min.js"></script>
+        <!--<script src="https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.12/js/jquery.dataTables.min.js"></script>-->
+        <script src="app/app.module.js"></script>
+        <script src="js/core/Configuration.js"></script>
+    <!-- Custom scripts for this template -->
+          <script src="js/sb-admin.js"></script>
+          <!--<script src="js/sb-admin.min.js"></script>-->
+
+        </div>
+  
+        </body>
+
+</html>
